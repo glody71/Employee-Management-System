@@ -1,0 +1,5 @@
+# Mengabaikan file .env di root
+.env
+
+# Mengabaikan file .env di folder backend
+/backend/.env
