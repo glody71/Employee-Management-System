@@ -156,6 +156,10 @@ backend/
 ```
 
 ## 6. Screenshot Aplikasi
+![Employee List](./assets/employeelist.png)
+![Employee Details](./assets/employeedetails.png)
+![Add Employee](./assets/add.png)
+![Edit Employee](./assets/edit.png)
 
 ## 7. Challenges & Solutions
 Salah satu tantangan utama dalam proyek ini adalah belajar Docker dari awal. Karena saya belum memiliki pengalaman sebelumnya, konsep seperti container, image, dan volume agak membingungkan. Untuk mengatasinya, saya mengikuti tutorial resmi Docker, berlatih dengan melakukan containerisasi aplikasi Node.js dan React sederhana, dan perlahan menerapkan konsep tersebut pada proyek ini
